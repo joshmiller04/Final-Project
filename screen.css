@@ -24,6 +24,7 @@ nav a {
     text-decoration: none;
 }
 
+
 section {
     padding: 2em;
     max-width: 800px;
@@ -37,12 +38,12 @@ footer {
     color: #fff;
 }
 
+
 .intro img {
     max-width: 100%;
     height: auto;
     border-radius: 50%;
 }
-
 /* Responsive Design */
 @media (max-width: 768px) {
     header, footer {
