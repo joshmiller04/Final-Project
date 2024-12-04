@@ -3,7 +3,8 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    color: #545252;
+    color: #000000;
+    background-color: #d7d7d7;
 }
 
 header {
