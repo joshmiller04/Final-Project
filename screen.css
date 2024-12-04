@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background: #1993d1;
+    background: #3538e1;
     color: #fff;
     text-align: center;
     padding: 1em;
@@ -20,7 +20,7 @@ header h1 {
 }
 
 nav a {
-    color: #fff;
+    color: #ffffff;
     margin: 0 1em;
     text-decoration: none;
 }
